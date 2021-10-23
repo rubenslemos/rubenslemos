@@ -1,0 +1,3 @@
+id,usuario,email,Senha,eAdmin,createdAt,updatedAt
+1,Rubens,rubenslemos@gmail.com,$2a$10$S3fV85mdL5hU8a1j6jByBeJ6/QHwewA7AqsdDmlr/yT5UP8hrT/jy,1,"2021-09-03 14:21:54","2021-09-03 14:21:54"
+2,Thiago,contato@vallenceturismo.com.br,$2a$10$Lryiv0a8m/7mYETH4JhmKewhaF4gA7txYnXF0HDH4Zt60hKd3/Nqq,1,"2021-09-03 15:13:36","2021-09-03 15:13:36"
